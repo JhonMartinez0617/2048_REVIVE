@@ -18,6 +18,7 @@ Soporte multiplataforma (Windows, Linux, macOS).
 Clona el repositorio:
 
 git clone https://github.com/JhonMartinez0617/2048_REVIVE.git
+
 cd 2048-revive
 
 Compila y ejecuta el proyecto en tu entorno de desarrollo.
